@@ -26,9 +26,7 @@ function Allproducts() {
       localStorage.setItem('cart', JSON.stringify(cartItems));
   }, [cartItems])
   
-  useEffect(() => {
-    window.scrollTo(0, 0)
-  }, [])
+ 
 
 
   return (
