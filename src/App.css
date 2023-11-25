@@ -1,0 +1,11 @@
+.footer .credit {
+    margin-top: 2.5rem;
+    padding: 1.5rem;
+    border-top: 0.1rem solid var(--light-white);
+    font-size: 2rem;
+    color: var(--light-white);
+}
+
+.footer .credit span {
+    color: var(--green);
+}
